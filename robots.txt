@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohit-kattalwad.github.io/seo-website/sitemap.xml
